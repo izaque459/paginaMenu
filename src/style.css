@@ -21,6 +21,14 @@ header,section{
     margin: 0 auto;
 }
 
+header h1 {
+    margin-bottom: 4px;
+  }
+  
+header h1 span {
+    color: #995000;
+  }
+
 section {
     margin-bottom: 24px;
   }
