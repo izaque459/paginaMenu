@@ -28,3 +28,13 @@ section h2 {
   
     margin-bottom: 24px;
   }
+
+  ul li {
+    margin-bottom: 16px;
+    display: flex;
+  }
+
+  li .details {
+    max-width: 240px;
+  }
+  
