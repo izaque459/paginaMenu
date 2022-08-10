@@ -39,6 +39,13 @@ header h1 span {
     color: #995000;
   }
 
+header p {
+    font-size: 14px;
+    line-height: 16px;
+  
+    color: rgba(0, 0, 0, 0.7);
+  }
+
 section {
     margin-bottom: 24px;
   }
