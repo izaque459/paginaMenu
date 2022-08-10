@@ -1,3 +1,4 @@
+/*GLOBAL*/
 *{
     margin:0;
     padding:0;
@@ -12,6 +13,7 @@ body{
 ul{
     list-style:none;
 }
+/*FONTES*/
 
 h1, h2, h3, .price {
   font-family: 'Roboto Serif', serif;
@@ -19,6 +21,7 @@ h1, h2, h3, .price {
   color: #2D2C2A;
 }
 
+/*HEADER*/
 header{
     padding:32px 0;
     text-align:center;
@@ -46,6 +49,7 @@ header p {
     color: rgba(0, 0, 0, 0.7);
   }
 
+  /* SECTION */
 section {
     margin-bottom: 24px;
   }
@@ -59,7 +63,7 @@ section h2 {
     font-size: 18px;
 
   }
-
+/* LISTA*/
   ul li {
     margin-bottom: 16px;
     display: flex;
